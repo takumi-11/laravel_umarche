@@ -2,6 +2,9 @@
     <x-slot name='header'>
         header1
     </x-slot>
-    
+
     コンポーネント1
+
+    <x-tests.cart title="タイトル" content='本文' />
+
 </x-tests.app>
