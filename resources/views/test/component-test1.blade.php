@@ -6,5 +6,6 @@
     コンポーネント1
 
     <x-tests.cart title="タイトル" content='本文' :message='$message' />
+    <x-tests.cart title="タイトル2" />
 
 </x-tests.app>
