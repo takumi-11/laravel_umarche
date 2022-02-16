@@ -4,4 +4,5 @@
     </x-slot>
     
     コンポーネント2
+    <x-tests.test-class-base-component classMessage='クラスメッセージ' />
 </x-tests.app>
